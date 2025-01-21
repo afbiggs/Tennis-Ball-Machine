@@ -1,18 +1,19 @@
 #include <Arduino.h>
-
-// put function declarations here:
-int myFunction(int, int);
+#include "./MotorControl/MotorControl.h"
+#include "./StepperControl/StepperControl.h"
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+    Serial.begin(9600);
+    setupMotors();
+    setupStepper();
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
+    int pot1Value = analogRead(pot1Pin);
+    int pot2Value = analogRead(pot2Pin);
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+    controlMotors(pot1Value, pot2Value);
+    delay(100);
+
+    controlStepper();
 }
