@@ -33,19 +33,24 @@ In the projects current state, C++ is the only language used. Currently the code
 Once the ball machine is complete, or close to it, I do plan on implementing many improvements and multiple languages will be used. More on this in the Future Improvements and Updates section below. 
 
 ## List of Main Materials 
-Now when it comes to the materials list, its hard for me to make an all inclusive list down to each bolt and screw. This is largely due to the culmination of "lets see if this will work" parts, which has slowly but surely turned into a large box of indiscriminate bolts, screws,etc. In all seriousness I should have foreseen that happening and done a better job at documenting each piece of hardware I ended up using. 
+When it comes to the materials list, its hard for me to make an all inclusive list down to each bolt and screw. This is largely due to the culmination of "lets see if this will work" parts, which has slowly but surely turned into a large box of indiscriminate bolts, screws,etc. In all seriousness I should have foreseen that happening and done a better job at documenting each piece of hardware I ended up using. 
 
 As I get closer to the end I will update this list and aim to have a more detailed guide for each and every part used for the different sections. For now I'll list and provide links for the electronic components and the must have hardware pieces. 
 ### Electronics 
-* Arduino Mega R3 2560 
-  * I chose this MCU dev board largely due to the many IOs. The ball machine has multiple motors and controls so we need a good amount of analog, digital, and pwm capable IOs. 
+* <span style="color:lightgreen;">Arduino Mega R3 2560 </span>
 
   <!-- <p align="center"> -->
   <img src="images/arduino-mega-r3.jpg" alt="Arduino Mega R3 2560" width="50%" style="margin-top: 20px; margin-bottom: 20px;">
 <!-- </p> -->
 
-* (2) 150W 24V, 5500RPM Permanent Magnet DC Motors (For the Throwing Wheels) 
-  * There are multiple motor options you can use for the throwing wheels and it will largerly depend on how fast you want the balls to be launched, and  also the power supply you choose for powering the machine and its capabilities. 
+  * I chose this MCU dev board largely due to the many IOs. The ball machine has multiple motors and controls so we need a good amount of analog, digital, and pwm capable IOs. 
+
+<br><br>
+* <span style="color:lightgreen;">(2) 150W 24V, 5500RPM Permanent Magnet DC Motors (For the Throwing Wheels)</span>
+
+  <img src="images/ball-machine-motors.png" alt="Ball Machine Throwing Motors" width="55%" style="margin-top: 20px; margin-bottom: 20px;">
+
+  * There are multiple motor options you can use for the throwing wheels and it will largely depend on how fast you want the balls to be launched, and  also the power supply you choose for powering the machine and its capabilities. 
   * Permanent Magnet motors are the norm for most ball machines and are usually whats used in the name brand ones on the market.
   * Regardless of which motors you go with, there are a few important factors you have to consider...
     1. The stall current rating for the motors.
@@ -57,7 +62,7 @@ As I get closer to the end I will update this list and aim to have a more detail
 
   * The RPM rating matters because it influences shot speed, spin control, consistency, training effectiveness, and the overall performance of the tennis ball machine. In order to meet the requirement of throwing a ball 60+ mph, the motors have to be able to spin fast enough. 
 
-  <img src="images/ball-machine-motors.png" alt="Ball Machine Throwing Motors" width="65%" style="margin-top: 20px; margin-bottom: 20px;">
+ 
 
 
 
