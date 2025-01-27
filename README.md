@@ -32,7 +32,7 @@ In the projects current state, C++ is the only language used. Currently the code
 
 Once the ball machine is complete, or close to it, I do plan on implementing many improvements and multiple languages will be used. More on this in the Future Improvements and Updates section below. 
 
-## List of Main Materials (please read below) 
+## List of Main Materials 
 Now when it comes to the materials list, its hard for me to make an all inclusive list down to each bolt and screw. This is largely due to the culmination of "lets see if this will work" parts, which has slowly but surely turned into a large box of indiscriminate bolts, screws,etc. In all seriousness I should have foreseen that happening and done a better job at documenting each piece of hardware I ended up using. 
 
 As I get closer to the end I will update this list and aim to have a more detailed guide for each and every part used for the different sections. For now I'll list and provide links for the electronic components and the must have hardware pieces. 
