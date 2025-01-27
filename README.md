@@ -37,7 +37,7 @@ When it comes to the materials list, its hard for me to make an all inclusive li
 
 As I get closer to the end I will update this list and aim to have a more detailed guide for each and every part used for the different sections. For now I'll list and provide links for the electronic components and the must have hardware pieces. 
 ### Electronics 
-* <span style="color:#90EE90;">Arduino Mega R3 2560 </span>
+* <font color="green">Arduino Mega R3 2560 </font>
 
   <!-- <p align="center"> -->
   <img src="images/arduino-mega-r3.jpg" alt="Arduino Mega R3 2560" width="50%" style="margin-top: 20px; margin-bottom: 20px;">
@@ -46,7 +46,7 @@ As I get closer to the end I will update this list and aim to have a more detail
   * I chose this MCU dev board largely due to the many IOs. The ball machine has multiple motors and controls so we need a good amount of analog, digital, and pwm capable IOs. 
 
 <br><br>
-* <span style="color:#90EE90;">(2) 150W 24V, 5500RPM Permanent Magnet DC Motors (For the Throwing Wheels)</span>
+* <font color="green">(2) 150W 24V, 5500RPM Permanent Magnet DC Motors (For the Throwing Wheels)</font>
 
   <img src="images/ball-machine-motors.png" alt="Ball Machine Throwing Motors" width="55%" style="margin-top: 20px; margin-bottom: 20px;">
 
