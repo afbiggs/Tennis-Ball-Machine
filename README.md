@@ -62,6 +62,19 @@ As I get closer to the end I will update this list and aim to have a more detail
 
   * The RPM rating matters because it influences shot speed, spin control, consistency, training effectiveness, and the overall performance of the tennis ball machine. In order to meet the requirement of throwing a ball 60+ mph, the motors have to be able to spin fast enough. 
 
+<br><br>
+* <font color="green">MDD10A Cytron Dual Channel 10A DC Motor Driver </font>
+
+  <img src="images/MDD10A-motor-driver .png" alt="Motor Driver For Throwing Motors" width="55%" style="margin-top: 20px; margin-bottom: 20px;">
+
+  * Now that we have the throwing wheel motors, we need a driver that can supply enough power and meets the requirements. This specific driver is a 2 channel bi-directional driver which is capable of supplying up to 10amps at 30volts per channel. This meets the requirements for the throwing motors and gives a nice cushion for any spikes in current the system may experience. 
+  * Another capability this specific driver has is its ability for bi-directional control of each channel. That means we can control each motor's direction independently from one another which is required for a ball machine that has 2 throwing wheels. As explained previously, in order for the ball to shoot, the throwing wheels must grab it and compress it. This means the wheels will have to spin in opposite directions from one another otherwise it cant grab the ball. 
+  * lastly, this driver has PWM pins that we will utilize and connect to the our Arduino microcontroller. PWM stands for Pulse With Modulation which is a technique that uses pulses of varying width to represent a signal. It's used to control the average power or amplitude of an electrical signal. This is what we will use vary and control the speed of each motor. 
+  * There are many drivers you can chose from and 2 separate drivers for each motor is also an option.
+
+  
+
+
  
 
 
