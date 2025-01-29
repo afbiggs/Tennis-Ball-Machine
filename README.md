@@ -66,7 +66,7 @@ To ensure this project is worth the effort, my DIY ball machine needed to meet t
 |-----------|-------|---------|
 | **Arduino Mega R3 2560** | ![Arduino Mega](images/arduino-mega-r3.jpg) | - Chosen for its numerous **I/O ports**, essential for motor and sensor control. <br><br> - Supports **PWM signals**, crucial for motor speed adjustments. <br><br> - Compatible with various expansion modules for future upgrades. |
 | **(2) 150W 24V, 5500RPM PMDC Motors** | ![Motors](images/ball-machine-motors.png) | - High **RPM** ensures the machine can launch balls at **60+ mph**. <br><br> - **Permanent magnet design** provides consistent performance. <br><br> - Selected for optimal balance between power and energy efficiency. <br><br> - ⚠️ *Note: Beyond the motor's total power capabilities and RPMs, the rated **Stall Current** of the motors need to be considered!* |
-| **MDD10A Cytron Dual-Channel Motor Driver** | ![Motor Driver](images/MDD10A-motor-driver.png) | - Controls both throwing motors independently. <br><br> - Supplies up to **10 Amps at 30 Volts per channel.** <br><br>- Supports **bidirectional control**, allowing for spin variations. <br><br> - Uses **PWM signals** to regulate motor speed efficiently. |
+| **MDD10A Cytron Dual-Channel Motor Driver** | ![Motor Driver](images/mdd10a-motor-driver.png) | - Controls both throwing motors independently. <br><br> - Supplies up to **10 Amps at 30 Volts per channel.** <br><br>- Supports **bidirectional control**, allowing for spin variations. <br><br> - Uses **PWM signals** to regulate motor speed efficiently. |
 
 
 ### 🔩 Mechanical Components
