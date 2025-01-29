@@ -6,7 +6,7 @@
 
 This repository contains the code, general manufacturing steps, and an in-depth overview of the main electronic and mechanical components used in creating my own **DIY tennis ball feeding machine**. This README goes beyond a typical project summary—it serves as a comprehensive guide documenting my experience, challenges, and insights throughout the build process.
 
-> **Status:** ⏳ *Project is 75% complete* — still working on full automation.
+> **Status:** ⏳ *Project is 75% complete* — still working on full automation of the feeding mechanism. **PICTURES AND VIDEOS OF THE MACHINE FUNCTIONING IN ITS CURRENT STATE WILL BE COMING SOON!**
 
 ⚠️ *This is not a step-by-step tutorial but rather a detailed reference guide for those looking to build their own machine!*
 
@@ -94,7 +94,7 @@ Throughout the build, I have conducted multiple tests, including:
 ## 🚀 Next Steps
 
 🔹 Fine-tuning the **ball feeding mechanism** for smoother operation.  
-🔹 Enhancing **user interface** for wireless remote control.  
+🔹 Enhancing **user interface** by adding a touchscreen for modern controls.  
 🔹 Improving **portability features** for easier transport.  
 
 ---
