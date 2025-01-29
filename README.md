@@ -4,7 +4,7 @@
 
 ## 🚀 Project Overview
 
-This repository contains the code, general manufacturing steps, and an in-depth overview of the main electronic and mechanical components used in creating my own **DIY tennis ball feeding machine**. This README goes beyond a typical project summary—it serves as a comprehensive guide documenting my experience, challenges, and insights throughout the build process.
+This repository contains the code, general manufacturing steps, and an in-depth overview of the main electronic and mechanical components used in creating my own **DIY tennis ball feeding machine**. This README is not complete but is currently being worked on in oder to include all major components used and a general build guide of the project.  
 
 > **Status:** ⏳ *Project is 75% complete* — still working on full automation of the feeding mechanism. **PICTURES AND VIDEOS OF THE MACHINE FUNCTIONING IN ITS CURRENT STATE WILL BE COMING SOON!**
 
@@ -14,15 +14,15 @@ This repository contains the code, general manufacturing steps, and an in-depth 
 
 ## 📖 Table of Contents
 
-- [Why Did I Make This?](#why-did-i-make-this)
-- [Requirements](#requirements)
-- [Languages Used](#languages-used)
-- [List of Main Materials](#list-of-main-materials)
-  - [Electronics](#electronics)
-- [Tests](#tests)
-- [Next Steps](#next-steps)
-- [Future Improvements and Updates](#future-improvements-and-updates)
-- [Questions](#questions)
+- [Why Did I Make This?](#-why-did-i-make-this)
+- [Requirements](#-requirements)
+- [Languages Used](#-languages-used)
+- [List of Main Materials](#-list-of-main-materials)
+  - [Electronics](#-electronics)
+- [Tests](#-tests)
+- [Next Steps](#-next-steps)
+- [Future Improvements and Updates](#-future-improvements-and-updates)
+- [Questions](#-questions)
 
 ---
 
