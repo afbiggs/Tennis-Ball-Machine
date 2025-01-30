@@ -1,6 +1,6 @@
 # 🎾 DIY Self-Made Tennis Ball Machine
 
-![Tennis Ball Machine](images/tennis-ball-machine-banner.jpg)
+![Tennis Ball Machine](images/tennis-ball-machine.gif)
 
 ## 🚀 Project Overview
 
