@@ -34,7 +34,7 @@ As an avid tennis player, I am always looking for hitting partners and new ways 
 
 Sure, purchasing a professionally built, high-quality machine is the simplest solution—until you see the **$1,200+** price tag! Plus, buying a machine and calling it quits does little to fullfil my consistent, unexplainable, and rather enigmatic desire to take on extensive projects I have little to absolutely no experience with. This challenge felt like the perfect opportunity to merge my love for **software & microcontroller development, engineering, and tennis**.
 
-💡 If you're considering making your own machine, be aware that this project requires **mechanical, electrical, and programming knowledge**, along with a variety of power tools. It is not for the faint of heart. However, if you're up for the challenge, I hope this README serves as a valuable reference!
+💡 If you're considering making your own machine, be aware that this project requires **mechanical, fabrication, electrical, and programming knowledge**, along with a variety of power tools. It is not for the faint of heart. However, if you're up for the challenge, I hope this README serves as a valuable reference but it will not be a step by step build guide. A more in-depth video showing and explaining the build will be coming soon and I am more than happy to answer any question and help how I can if you do decide to build your own ball machine. 
 
 ---
 
@@ -54,7 +54,7 @@ To ensure this project is worth the effort, my DIY ball machine needed to meet t
 ## 🖥️ Languages Used
 
 - **C++** *(currently used for microcontroller programming)*
-- Future improvements may include **Python & JavaScript** for UI and automation enhancements.
+- Future improvements will include **Python & JavaScript** for UI and automation enhancements.
 
 ---
 
@@ -67,6 +67,9 @@ To ensure this project is worth the effort, my DIY ball machine needed to meet t
 | **Arduino Mega R3 2560** | ![Arduino Mega](images/arduino-mega-r3.jpg) | - Chosen for its numerous **I/O ports**, essential for motor and sensor control. <br><br> - Supports **PWM signals**, crucial for motor speed adjustments. <br><br> - Compatible with various expansion modules for future upgrades. |
 | **(2) 150W 24V, 5500RPM PMDC Motors** | ![Motors](images/ball-machine-motors.png) | - High **RPM** ensures the machine can launch balls at **60+ mph**. <br><br> - **Permanent magnet design** provides consistent performance. <br><br> - Selected for optimal balance between power and energy efficiency. <br><br> - ⚠️ *Note: Beyond the motor's total power capabilities and RPMs, the rated **Stall Current** of the motors need to be considered!* |
 | **MDD10A Cytron Dual-Channel Motor Driver** | ![Motor Driver](images/mdd10a-motor-driver.png) | - Controls both throwing motors independently. <br><br> - Supplies up to **10 Amps at 30 Volts per channel.** <br><br>- Supports **bidirectional control**, allowing for spin variations. <br><br> - Uses **PWM signals** to regulate motor speed efficiently. |
+| **Nema 17 Stepper Motor** | ![Nema 17 Stepper](images/nema17-stepper.png) | - Stepper motor used for adjusting ball throwing angle. <br><br> - Chosen for its **Accuracy, Low power, Smooth Speed, Stable Performance.** <br><br> - Motor was repurposed from a non-functioning 3D printer. | 
+| **B10K Potentiometers 10K ohm** | ![B10K Pot](images/b10k-potentiometerr-10k-ohm.webp) | - Used for controlling speed of each throwing wheel. <br><br> - In the machines current form, these also control ball spin by simply speeding up/slowing down 1 wheel. 
+
 
 
 ### 🔩 Mechanical Components
