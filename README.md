@@ -120,5 +120,5 @@ Throughout the build, I have conducted multiple tests, including:
 
 If you have any questions, suggestions, or want to collaborate, feel free to open an issue or reach out!
 
-📩 **Contact:** [afbiggs73@gmail.com / afbiggs]
+📩 **Contact:** [Email: afbiggs73@gmail.com / github username: afbiggs]
 
