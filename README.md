@@ -79,6 +79,9 @@ To ensure this project is worth the effort, my DIY ball machine needed to meet t
 
 While the full hardware list is still being finalized, key materials include:
 
+| Component | Image | Purpose |
+|-----------|-------|---------|
+| **Steel for Motor & Wheel Mount** |  
 - **Custom-built frame** (Aluminum & 3D-printed parts)
 - **Adjustable ball chute** for varied shot angles
 - **High-grip rubber throwing wheels** for improved ball control
@@ -117,5 +120,5 @@ Throughout the build, I have conducted multiple tests, including:
 
 If you have any questions, suggestions, or want to collaborate, feel free to open an issue or reach out!
 
-📩 **Contact:** [Your Email / GitHub Profile]
+📩 **Contact:** [afbiggs73@gmail.com / afbiggs]
 
